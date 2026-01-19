@@ -19,4 +19,4 @@ Foram realizadas consultas utilizando filtros por preço, categoria, ingrediente
 * MySQL
 * SQL
 
-Este projeto faz parte do meu portfólio de estudos em Análise de Dados e Banco de Dados, com foco no desenvolvimento de consultas SQL e compreensão de estruturas relacionais.
+
